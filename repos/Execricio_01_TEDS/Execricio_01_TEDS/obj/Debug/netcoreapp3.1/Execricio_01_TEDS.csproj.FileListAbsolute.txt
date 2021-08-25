@@ -1,0 +1,16 @@
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.exe
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.deps.json
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.runtimeconfig.json
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.runtimeconfig.dev.json
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.dll
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\bin\Debug\netcoreapp3.1\Execricio_01_TEDS.pdb
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.csproj.AssemblyReference.cache
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.Form1.resources
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.csproj.GenerateResource.cache
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.AssemblyInfoInputs.cache
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.AssemblyInfo.cs
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.csproj.CoreCompileInputs.cache
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.dll
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.pdb
+C:\Users\lkgg-\source\repos\Execricio_01_TEDS\Execricio_01_TEDS\obj\Debug\netcoreapp3.1\Execricio_01_TEDS.genruntimeconfig.cache
